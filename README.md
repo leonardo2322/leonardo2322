@@ -17,8 +17,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 -🐱‍👤I am very versatile looking for what I don't know 
-
--🐱‍🏍
   
 
 <br/>  
@@ -91,12 +89,19 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leonardo2322&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2322&layout=compact&theme=dark)
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leonardo2322&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
+<br/>  
 ## Recent Blog Posts  
   
 
