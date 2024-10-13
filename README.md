@@ -83,8 +83,15 @@
 <a href="https://www.youtube.com/user/UCTbM8SMp2ydxM5z-ANVZGfA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:joys23services@gmail.com?
+Subject=Asunto%20del%20mail»" target="_blank">
+ 
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a> 
 </div>  
   
+
 
 <br/>  
 
@@ -97,7 +104,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leonardo2322&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
- 
+
  ##  Mis Ultimos videos De youtube
 
 <br/> 
