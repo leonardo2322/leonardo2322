@@ -6,7 +6,7 @@
 
 #### i am from venezuela at the moment i am in merida i am 27 years old 
 
-![banner](https://github.com/leonardo2322/Portafolio_UNA_Leonardo/blob/main/assets/img/bannergithub.png)
+![banner](bannergithub.png)
 
   
 
