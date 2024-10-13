@@ -98,6 +98,9 @@
 
 <br/>  
 <!-- BEGIN YOUTUBE-CARDS -->
+[![FLET: Margin  SPACING ideas para espaciar elementos](https://ytcards.demolab.com/?id=Ve1qa4zEBoQ&title=FLET%3A+Margin++SPACING+ideas+para+espaciar+elementos&lang=en&timestamp=1728267377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FLET: Margin  SPACING ideas para espaciar elementos")](https://www.youtube.com/watch?v=Ve1qa4zEBoQ)
+[![Instalar DRIVERS de INTEL o AMD por separado Despues de instalar tu windows](https://ytcards.demolab.com/?id=0IGU9xBQSTI&title=Instalar+DRIVERS+de+INTEL+o+AMD+por+separado+Despues+de+instalar+tu+windows&lang=en&timestamp=1727477388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instalar DRIVERS de INTEL o AMD por separado Despues de instalar tu windows")](https://www.youtube.com/watch?v=0IGU9xBQSTI)
+[![Se puede instanciar una clase con una tupla u otra estructura de datos de python?](https://ytcards.demolab.com/?id=_7TljEQoFKA&title=Se+puede+instanciar+una+clase+con+una+tupla+u+otra+estructura+de+datos+de+python%3F&lang=en&timestamp=1727064006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Se puede instanciar una clase con una tupla u otra estructura de datos de python?")](https://www.youtube.com/watch?v=_7TljEQoFKA)
 <!-- END YOUTUBE-CARDS -->
 
 
