@@ -104,11 +104,9 @@ Subject=Asunto%20del%20mail»" target="_blank">
 ## Certificados
 <p align="center">
 
-![banner](diploma-django.jpg) 
-
-![banner](diploma-django-rest-framework.jpg)
-
-![banner](diploma-docker-fundamentos.jpg)
+<img src="diploma-django.jpg" width="30%" style="margin-right: 10px;" />
+<img src="diploma-django-rest-framework.jpg" width="30%" style="margin-right: 10px;" />
+<img src="diploma-docker-fundamentosjp.jpg" width="30%" />
 
 </p>
 <br/> 
